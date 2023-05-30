@@ -3,9 +3,21 @@
   <component name="NewModuleRootManager" inherit-compiler-output="true">
     <exclude-output />
     <content url="file://$MODULE_DIR$">
-      <excludeFolder url="file://$MODULE_DIR$/Exercicio1_TeladeLogin/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/Exercicio2_TeladeLoginAtualizado/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/Exercicio2_TeladeLoginAtualizado/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/Exercicio2_TeladeLoginAtualizado/build" />
       <excludeFolder url="file://$MODULE_DIR$/Exercicio1_TeladeLogin/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/Exercicio1_TeladeLogin/.pub" />
       <excludeFolder url="file://$MODULE_DIR$/Exercicio1_TeladeLogin/build" />
+      <excludeFolder url="file://$MODULE_DIR$/projeto_financify/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/projeto_financify/build" />
+      <excludeFolder url="file://$MODULE_DIR$/projeto_financify/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/Exercicio4_TeladeCadastroAtualizado/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/Exercicio4_TeladeCadastroAtualizado/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/Exercicio4_TeladeCadastroAtualizado/build" />
+      <excludeFolder url="file://$MODULE_DIR$/Exercicio3_TeladeCadastro/build" />
+      <excludeFolder url="file://$MODULE_DIR$/Exercicio3_TeladeCadastro/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/Exercicio3_TeladeCadastro/.pub" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
